@@ -19,5 +19,3 @@ Estrutura de Repetição (for)
 4a Aula - Análise de Dados
 
 5a Aula - Análise de Dados
-
-
