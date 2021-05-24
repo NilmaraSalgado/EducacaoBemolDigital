@@ -12,7 +12,12 @@ Operadores relacionais
 Operadores lógicos
 Desvios Condicionais
 
-2a Aula - Python
+3a Aula - Python
 Funções
 Estrutura de Repetição (for)
+
+4a Aula - Análise de Dados
+
+5a Aula - Análise de Dados
+
 
