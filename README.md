@@ -1,5 +1,5 @@
-# EducacaoBemolDigital
-Materiais e exercícios do curso ANÁLISE DE DADOS PARA NEGÓCIOS
+# **EducacaoBemolDigital**
+## Materiais e exercícios do curso ANÁLISE DE DADOS PARA NEGÓCIOS
 
 1a Aula - Python
 Conceitos introdutórios
@@ -19,3 +19,9 @@ Estrutura de Repetição (for)
 4a Aula - Análise de Dados
 
 5a Aula - Análise de Dados
+
+6a Aula - Análise de Dados
+
+7a Aula - Exportando Dados
+
+8a Aula - Visualização de Dados
