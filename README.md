@@ -1,5 +1,5 @@
 # **EducacaoBemolDigital**
-## Materiais e exercícios do curso ANÁLISE DE DADOS PARA NEGÓCIOS
+## Materiais e exercícios do curso ANÁLISE DE DADOS PARA NEGÓCIOS e ESTATÍSTICA
 
 1a Aula - Python
 Conceitos introdutórios
